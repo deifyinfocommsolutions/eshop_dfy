@@ -1,2 +1,1 @@
-# eshop_dfy
-eShop portal for iBeads
+eShop Portal for iBeads
